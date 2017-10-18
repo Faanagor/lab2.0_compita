@@ -1,0 +1,10 @@
+C:\Users\aguirre.fabio.andres\source\repos\app_test_example\app_test_example\bin\Debug\app_test_example.exe.config
+C:\Users\aguirre.fabio.andres\source\repos\app_test_example\app_test_example\bin\Debug\app_test_example.exe
+C:\Users\aguirre.fabio.andres\source\repos\app_test_example\app_test_example\bin\Debug\app_test_example.pdb
+C:\Users\aguirre.fabio.andres\source\repos\app_test_example\app_test_example\obj\Debug\app_test_example.Form1.resources
+C:\Users\aguirre.fabio.andres\source\repos\app_test_example\app_test_example\obj\Debug\app_test_example.Properties.Resources.resources
+C:\Users\aguirre.fabio.andres\source\repos\app_test_example\app_test_example\obj\Debug\app_test_example.csproj.GenerateResource.Cache
+C:\Users\aguirre.fabio.andres\source\repos\app_test_example\app_test_example\obj\Debug\app_test_example.csproj.CoreCompileInputs.cache
+C:\Users\aguirre.fabio.andres\source\repos\app_test_example\app_test_example\obj\Debug\app_test_example.exe
+C:\Users\aguirre.fabio.andres\source\repos\app_test_example\app_test_example\obj\Debug\app_test_example.pdb
+C:\Users\aguirre.fabio.andres\source\repos\app_test_example\app_test_example\obj\Debug\app_test_example.csprojResolveAssemblyReference.cache
